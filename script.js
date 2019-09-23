@@ -1,0 +1,1 @@
+var frequenz= document.getElementById("midi");
